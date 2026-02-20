@@ -22,7 +22,7 @@ except: pass
 
 
 # --- CONFIGURATION ---
-MODEL_ID = "./ASR_model"
+MODEL_ID = "theainerd/Wav2Vec2-large-xlsr-hindi"
 RATE = 16000
 CHUNK = 1024
 SILENCE_THRESHOLD = 900
