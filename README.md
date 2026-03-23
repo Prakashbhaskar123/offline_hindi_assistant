@@ -377,3 +377,5 @@ python Assistant.py
 This project successfully demonstrates a fully offline, privacy-preserving Hindi voice assistant running entirely on ARM-based Raspberry Pi CPU. Through model quantization and lightweight intent recognition, the system achieves efficient on-device inference without cloud dependency, fulfilling the requirements of ARM Challenge Problem Statement 1.
 
 ---
+.
+.
